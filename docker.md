@@ -13,3 +13,4 @@ Then:
 docker run -v /home/darius/Desktop/docker:/home/jovyan/ -p 8888:8888 mt-notebook
 
 docker-compose up
+docker-compose up --build
